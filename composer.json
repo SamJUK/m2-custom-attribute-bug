@@ -1,0 +1,13 @@
+{
+  "name": "bigeyedeers/m2-custom-attribute-bug",
+  "description": "BED Custom attribute bug example",
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "autoload": {
+    "files": ["registration.php"],
+    "psr-4": {
+      "Bigeyedeers\\Bug\\": ""
+    }
+  }
+}
+
